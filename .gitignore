@@ -20,6 +20,10 @@
 *.mod
 *.smod
 
+.pio
+.vscode
+.DS_Store
+
 # Compiled Static libraries
 *.lai
 *.la

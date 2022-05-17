@@ -1,7 +1,4 @@
 #include <Arduino.h>
-#include <HardwareSerial.h>
-
-HardwareSerial Serial;
 
 /* Feeding Grass by Sam */
 
